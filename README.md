@@ -6,3 +6,8 @@ Jennifer Mata López
 4CM4
 Ingeniería en sistemas computacionales 
 ## Índice de la practica 
+Tecnologías utilizadas
+
+- Python
+- Docker
+- JFLAP
