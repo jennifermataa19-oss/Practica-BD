@@ -11,3 +11,6 @@ Tecnologías utilizadas
 - Python
 - Docker
 - JFLAP
+## Objetivo
+
+El objetivo de este repositorio es organizar y entregar las actividades realizadas
